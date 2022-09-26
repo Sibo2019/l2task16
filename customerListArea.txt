@@ -1,0 +1,6 @@
+Here are the customers grouped by area 
+
+Lolo : Cape Town
+wewe : Cape Town
+Kwanele : Port Elizabeth
+Siwe : Witbank
